@@ -1,6 +1,6 @@
-Требования по проекту(исправленные):
+Требования по проекту(исправленные): https://docs.google.com/document/d/1JnEf-mD7B9mRvY6DlyozvA14CFmSIdAS/edit?usp=sharing&ouid=109513607894983774171&rtpof=true&sd=true
 
-Тест-кейсы, покторым составлены тесты: 
+Тест-кейсы, покторым составлены тесты: https://docs.google.com/spreadsheets/d/16bxmH_b3VrxgFuauM_f4fxSZ1B0lW21hfE96kIa92Vc/edit?usp=sharing
 
 Для начала работы с тестами необходимо:
 
