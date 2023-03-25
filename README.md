@@ -5,8 +5,12 @@
 Для начала работы с тестами необходимо:
 
 Скачать репозиторий к себе на компьютер.
+
 Скачать актуальный Selenium WebDriver с сайта: https://chromedriver.chromium.org/downloads (выбрать версию соответствующую версии вашего браузера).
+
 Установить все необходимые пакеты: pytest, selenium.
+
 В файле conftest.py указать путь расположения файла chromedriver.exe на вашем компьютере.
+
 Для запуска тестов через терминал необходимо ввести команду:
 pytest -v --driver Chrome --driver-path chromedriver.exe ui_tests.py
