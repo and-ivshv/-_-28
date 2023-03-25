@@ -1,0 +1,11 @@
+
+valid_email = 'wiyene7905@asoflex.com'
+valid_pass = 'Qwerty123!'
+valid_phone = '+79535582485'
+invalid_phone = '+79535582123'
+invalid_email = 'wiyene@asofle.ru'
+invalid_pass = '1234567'
+valid_login = 'rtkid_1679500836020'
+invalid_login = 'wiyene_16565'
+valid_ls = '789456123581'
+invalid_ls = '1234567891011'
